@@ -1,5 +1,8 @@
 _repo: The-Moon-A-Popular-Treatise_66510
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66510-h/images/cover.jpg
 creator:
   author:
     agent_name: Serviss, Garrett Putman
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2120
     wikipedia: https://en.wikipedia.org/wiki/Garrett_P._Serviss
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66510#The-Moon-A-Popular-Treatise
 gutenberg_issued: '2021-10-10'
 identifiers:
   gutenberg: '66510'
